@@ -1,3 +1,11 @@
+!!!
+
+## Current command functionality has been merged into https://github.com/snail2sky/bbx
+- usage
+```bash
+bbx echo --help
+```
+
 # echo
 TCP or UDP echo server
 
